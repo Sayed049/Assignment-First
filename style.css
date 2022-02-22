@@ -47,6 +47,11 @@ h2{
     border-radius: 6px;
     padding: 10px 20px;
 }
+.Link_Class{
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+}
 .Border_Left{
     border-left: 5px solid #f57777;
     border-radius: 5px;
@@ -96,4 +101,15 @@ footer{
     padding-top: 1%;
     padding-bottom: 1%;
     /* border-radius: 5px; */
+}
+.Box_Shadow{
+    width: 50%;
+    height: 300px;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 8%;
+    margin-bottom: 10%;
+    box-shadow: 10px 10px 40px rgb(231, 182, 90);
+    border-radius: 10px;
 }
