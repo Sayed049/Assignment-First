@@ -8,6 +8,13 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
+.h2_class{
+    text-align: center;
+    font-size: 35px;
+}
 .Orange_Color{
     color: rgb(240, 192, 102);
 }
@@ -24,6 +31,14 @@ h1{
     left: 700px;
     top: -50px;
 }
+/* Third & Fourth Section */
+.Third_Section{
+    width: 50%;
+}
+.Third_Section img{
+    width: 400px;
+    margin-bottom: 15%;
+}
 .Button_Class{
     text-decoration: none;
     background-color: #f57777;
@@ -36,4 +51,49 @@ h1{
     border-left: 5px solid #f57777;
     border-radius: 5px;
     padding-left: 5px;
+}
+#Box_1{
+    width: 33%;
+    margin-right: 1%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    background-color: rgb(197, 233, 233);
+    border-radius: 30px;
+}
+/* For Second Section */
+#Box_1 img{
+    width: 35%;
+}
+#Box_2{
+    width: 33%;
+    margin-right: 1%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    background-color: rgb(245, 218, 168);
+    border-radius: 30px;
+}
+#Box_2 img{
+    width: 35%;
+}
+#Box_3{
+    width: 34%;
+    margin-right: 1%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    background-color: rgb(241, 163, 163);
+    border-radius: 30px;
+}
+#Box_3 img{
+    width: 35%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    /* border-radius: 5px; */
 }
